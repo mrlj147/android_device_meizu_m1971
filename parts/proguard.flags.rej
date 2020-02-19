@@ -1,0 +1,6 @@
+diff a/parts/proguard.flags b/parts/proguard.flags	(rejected hunks)
+@@ -1,3 +1,3 @@
+--keep class org.lineage.pocketmode.* {
++-keep class org.lineageos.pocketmode.* {
+   *;
+ }
